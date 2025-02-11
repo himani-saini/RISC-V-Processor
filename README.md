@@ -1,4 +1,4 @@
-```markdown
+
 # RISC-V Processor
 
 ## Table of Contents
