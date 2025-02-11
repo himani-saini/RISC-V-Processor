@@ -16,10 +16,18 @@
 ## About The Project
 This project implements a 32-bit RISC-V ISA-based processor in Verilog. The sub-modules used in the design and their interactions are illustrated in the following diagram:
 
-*(Insert image here)*
+<p align="left">
+  <img src="images/Processor.png" 
+   alt="Vending Machine State Diagram" width="60%">
+</p>
+
 
 ### Output waveform using GTKWave:
-*(Insert waveform screenshot here)*
+<p align="left">
+  <img src="images/Waveform.png" 
+   alt="Vending Machine State Diagram" width="60%">
+</p>
+
 
 ## Project Structure
 The repository is structured as follows:
