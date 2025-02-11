@@ -12,7 +12,6 @@
   - [Initializing the Register File](#initializing-the-register-file)
   - [Running the Processor](#running-the-processor)
   - [Viewing Waveform](#viewing-waveform)
-- [License](#license)
 
 ## About The Project
 This project implements a 32-bit RISC-V ISA-based processor in Verilog. The sub-modules used in the design and their interactions are illustrated in the following diagram:
